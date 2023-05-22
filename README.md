@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vimukthiaravinda
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning about Front-end developmant
+- 🌱 I’m currently learning about Deep learing, .Net and Java Spring
 - 📫 How to reach me vimukthiaravinda18@gmail.com
 
 <!---
