@@ -8,7 +8,6 @@ I've been learning code 5 years, I am looking for a job opportunity in the softw
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [vimukthiaravinda18@gmail.com](mailto:vimukthiaravinda18@gmail.com)
-* 🧠  I'm learning Java Spring Boot and TensorFlow
 
 <a href="https://www.github.com/vimukthiaravinda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vimukthiaravinda?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
